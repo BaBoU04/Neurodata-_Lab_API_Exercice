@@ -5,7 +5,7 @@ This exercise allows us to use the different keys of the Neurodata Lab API. We w
 
 The streaming processing and the webcam did not work with my network after use cam.py, so I modified the exercise using two mp4 videos on my computer. 
 
-In this exercice, I created a Face Detector key and an Emotion Recognition key to use them on two different videos. 
+In this exercice, I created a Face Detector key and an Emotion Recognition key to use them on two different videos. A folder named KEYS is used to put the key that we want to use. In consequence, we have two folders FaceDetector_Key and EmotionRecognition_Key which contain the key associated. We only have to change the files of the right key in KEYS to use it.
 
 
 The exercise is divided into three codes: 
