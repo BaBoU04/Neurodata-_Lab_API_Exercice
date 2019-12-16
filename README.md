@@ -1,7 +1,9 @@
 # Neurodata-_Lab_API_Exercice
 Exercise using Neurodata Lab API capabilities
 
-This exercise allows us to use the different keys of the Neurodata Lab API. The streaming processing and the webcam did not work with my network, so I modified the exercise using two mp4 videos on my computer. 
+This exercise allows us to use the different keys of the Neurodata Lab API. We will learn how to use Neurodata Lab API tool, how to process images and videos, and how to create your own real-time stream processing tool using Neurodata Lab API. In consequence, we have example.py and streaming_processing.py that can be executed with a command line.
+
+The streaming processing and the webcam did not work with my network after use cam.py, so I modified the exercise using two mp4 videos on my computer. 
 
 In this exercice, I created a Face Detector key and an Emotion Recognition key to use them on two different videos. 
 
